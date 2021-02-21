@@ -12,6 +12,7 @@ func CreateVault(vault vault.Vault) (*vault.Vault, *errors.RestErr) {
 		return nil, err
 	}
 	// Encrypt secret data
+	// TODO: Get Masterpassword from outside (Openshift Secret)
 	str, err := ansible.Encrypt(vault.Text, "qwert1234")
 	if err != nil {
 		return nil, errors.NewInterlanServerError(
