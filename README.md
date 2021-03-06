@@ -1,4 +1,18 @@
+<p align="center">
 
+<a href="#" alt="GitHub Workflow Status">
+  <img src="https://img.shields.io/github/workflow/status/GrolimundSolutions/2vault/2vault"/></a>
+
+<a href="#" alt="GitHub tag (latest SemVer)">
+  <img src="https://img.shields.io/github/v/tag/GrolimundSolutions/2vault?label=release&sort=semver"/></a>
+
+<a href='https://coveralls.io/github/GrolimundSolutions/2vault?branch=main'>
+  <img src='https://coveralls.io/repos/github/GrolimundSolutions/2vault/badge.svg?branch=main' alt='Coverage Status' /></a>
+
+<a href="https://github.com/GrolimundSolutions/2vault/pulse" alt="Activity">
+  <img src="https://img.shields.io/github/commit-activity/m/grolimundsolutions/2vault"/></a>
+
+</p>
 
 ## API Description
 
