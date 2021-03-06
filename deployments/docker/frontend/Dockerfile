@@ -7,3 +7,4 @@ RUN git clone https://github.com/GrolimundSolutions/2vault-frontend.git .
 
 FROM httpd:latest
 COPY --from=builder /htdocs /usr/local/apache2/htdocs
+EXPOSE 80
