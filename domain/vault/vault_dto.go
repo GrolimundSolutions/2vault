@@ -3,7 +3,7 @@ package vault
 import "github.com/GrolimundSolutions/2vault/utils/errors"
 
 type Vault struct {
-	Text   string `json:"text"`
+	Text   string `json:"text,omitempty"`
 	Secret string `json:"secret,omitempty"`
 }
 

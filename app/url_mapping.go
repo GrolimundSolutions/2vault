@@ -8,5 +8,5 @@ import (
 func mapUrls() {
 	router.GET("/ping", ping.Ping)
 
-	router.POST("/2vault", vault.Create)
+	router.POST("/api/v1/vault", vault.Create)
 }

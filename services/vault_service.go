@@ -19,6 +19,7 @@ func CreateVault(vault vault.Vault) (*vault.Vault, *errors.RestErr) {
 			fmt.Sprintf("Error when encrypting %s Error: %s", vault.Text, err))
 	}
 	vault.Secret = str
+	vault.Text = ""
 	return &vault, nil
 
 }
