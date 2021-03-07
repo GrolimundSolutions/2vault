@@ -1,4 +1,4 @@
-name: 2vault-Release
+name: 2vault-Test
 on:
   push:
     branches: [ master ]
