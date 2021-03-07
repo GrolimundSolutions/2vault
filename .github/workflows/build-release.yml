@@ -2,7 +2,7 @@ name: 2vault-Release
 on:
   push:
     branches:
-      - master
+      - main
     tags:
       - 'v*'
 
