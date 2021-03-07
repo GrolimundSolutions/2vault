@@ -6,11 +6,11 @@
 <a href="#" alt="GitHub tag (latest SemVer)">
   <img src="https://img.shields.io/github/v/tag/GrolimundSolutions/2vault?label=release&sort=semver"/></a>
 
-<a href='https://coveralls.io/github/GrolimundSolutions/2vault?branch=main'>
-  <img src='https://coveralls.io/repos/github/GrolimundSolutions/2vault/badge.svg?branch=main' alt='Coverage Status' /></a>
+<a href="https://codecov.io/gh/GrolimundSolutions/2vault">
+  <img src="https://codecov.io/gh/GrolimundSolutions/2vault/branch/main/graph/badge.svg?token=ZA6QXM9RTS"/></a>
 
 <a href="https://github.com/GrolimundSolutions/2vault/pulse" alt="Activity">
-  <img src="https://img.shields.io/github/commit-activity/m/grolimundsolutions/2vault"/></a>
+  <img src="https://img.shields.io/github/commit-activity/m/GrolimundSolutions/2vault"/></a>
 
 </p>
 
