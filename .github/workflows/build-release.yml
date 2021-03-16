@@ -1,8 +1,8 @@
-name: 2vault
+name: 2vault-Release
 on:
   push:
     branches:
-      - master
+      - main
     tags:
       - 'v*'
 
